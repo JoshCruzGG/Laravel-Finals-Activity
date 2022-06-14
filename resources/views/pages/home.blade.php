@@ -70,8 +70,8 @@ body {
 
 #about {
     padding-top: 130px;
-    margin-left: 70px;
-    margin-right: 70px;
+    padding-left: 70px;
+    padding-right: 70px;
     text-align: center;
 }
 
@@ -129,8 +129,8 @@ body {
 
 #sixyrs {
     padding-top: 130px;
-    margin-left: 70px;
-    margin-right: 70px;
+    padding-left: 70px;
+    padding-right: 70px;
     text-align: center;
 }
 
